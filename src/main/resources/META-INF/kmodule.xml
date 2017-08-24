@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
+  <kbase name="LicenseBase" default="true" packages="org.sssihl.license">
+    <ksession name="LicenseSession" type="stateless" default="true" />
+  </kbase>
+</kmodule>
